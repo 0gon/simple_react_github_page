@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksimple_react_github_page=self.webpackChunksimple_react_github_page||[]).push([[485],{836:(e,n,r)=>{r.d(n,{A:()=>s});var a=r(579);const s=e=>{let{children:n}=e;return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)("nav",{children:"nav"}),(0,a.jsx)("main",{children:n})]})}},485:(e,n,r)=>{r.r(n),r.d(n,{default:()=>t});var a=r(836),s=r(475),i=r(579);const t=()=>(0,i.jsxs)(a.A,{children:[(0,i.jsx)("div",{children:"Main Pagefew"}),(0,i.jsx)(s.N_,{to:"/another",children:"another"})]})}}]);
+//# sourceMappingURL=485.fbbf09cd.chunk.js.map
