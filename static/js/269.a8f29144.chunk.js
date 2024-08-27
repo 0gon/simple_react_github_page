@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksimple_react_github_page=self.webpackChunksimple_react_github_page||[]).push([[269],{269:(e,i,r)=>{r.r(i),r.d(i,{default:()=>s});var a=r(579);const n=e=>{let{children:i}=e;return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("main",{children:i})})},s=()=>(0,a.jsx)(n,{children:(0,a.jsx)("div",{children:"Main Page"})})}}]);
-//# sourceMappingURL=269.a8f29144.chunk.js.map
