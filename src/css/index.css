@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  overflow-wrap: break-word;
+}
+
+.side-bar {
+  position: fixed;
+  width: 15rem;
+  height: 100%;
+  border-right: 1px solid;
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  overflow-y: auto;
+}
+
+.main {
+  position: relative;
+  max-width: 50rem;
+  margin-left: 15rem;
+}
+
+.main-content-wrap {
+  padding: 2rem;
+}
+
