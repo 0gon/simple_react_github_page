@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/simple_react_github_page/static/css/main.75600a23.css",
-    "main.js": "/simple_react_github_page/static/js/main.a20c4358.js",
-    "static/js/485.075de4bb.chunk.js": "/simple_react_github_page/static/js/485.075de4bb.chunk.js",
+    "main.js": "/simple_react_github_page/static/js/main.48c46441.js",
+    "static/js/485.79d5ca2e.chunk.js": "/simple_react_github_page/static/js/485.79d5ca2e.chunk.js",
     "static/css/728.ec21b4cd.chunk.css": "/simple_react_github_page/static/css/728.ec21b4cd.chunk.css",
     "static/js/728.ba295836.chunk.js": "/simple_react_github_page/static/js/728.ba295836.chunk.js",
     "static/js/912.de8b79ef.chunk.js": "/simple_react_github_page/static/js/912.de8b79ef.chunk.js",
     "index.html": "/simple_react_github_page/index.html",
     "main.75600a23.css.map": "/simple_react_github_page/static/css/main.75600a23.css.map",
-    "main.a20c4358.js.map": "/simple_react_github_page/static/js/main.a20c4358.js.map",
-    "485.075de4bb.chunk.js.map": "/simple_react_github_page/static/js/485.075de4bb.chunk.js.map",
+    "main.48c46441.js.map": "/simple_react_github_page/static/js/main.48c46441.js.map",
+    "485.79d5ca2e.chunk.js.map": "/simple_react_github_page/static/js/485.79d5ca2e.chunk.js.map",
     "728.ec21b4cd.chunk.css.map": "/simple_react_github_page/static/css/728.ec21b4cd.chunk.css.map",
     "728.ba295836.chunk.js.map": "/simple_react_github_page/static/js/728.ba295836.chunk.js.map",
     "912.de8b79ef.chunk.js.map": "/simple_react_github_page/static/js/912.de8b79ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75600a23.css",
-    "static/js/main.a20c4358.js"
+    "static/js/main.48c46441.js"
   ]
 }
