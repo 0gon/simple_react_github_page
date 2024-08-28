@@ -11,9 +11,9 @@ const FileListRenderer = () => {
         return (
             <ul>
                 {items.map((item, index) => {
-                    const { name, children } = item;
+                    const { name, path, children } = item;
                     const isFile = !children;
-                    const currentPath = `${parentPath}/${name}`
+                    const currentPath = `${parentPath}/${path}`
 
 
                     return (

@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import FileListRenderer from 'component/FileListRenderer';
+import BasicNav from 'component/BasicNav';
 
 const BasicLayout = ({ children }) => {
 
@@ -8,15 +8,12 @@ const BasicLayout = ({ children }) => {
     return (
         <>
             <div className="side-bar">
+                
                 <div className="site-header">
                     <Link to={'/'}>simple_react_github_page</Link>
                 </div>
-                <nav>
-                    <ul>
-                        <li><Link to={'/test'}>test</Link></li>
-                    </ul>
-                    <FileListRenderer />
-                </nav>
+
+                <BasicNav />
             </div>
 
             <div className="main">

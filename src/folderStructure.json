@@ -1,18 +1,19 @@
 [
     {
-        "name": "01.md"
+        "name": "How to copy",
+        "path": "01.md"
     },
     {
-        "name": "02.md"
+        "name": "How to create an md file",
+        "path": "02.md"
     },
     {
-        "name": "폴더",
+        "name": "derectory",
+        "path": "derectory",
         "children": [
             {
-                "name": "03.md"
-            },
-            {
-                "name": "한글명칭파일.md"
+                "name": "file",
+                "path": "03.md"
             }
         ]
     }
